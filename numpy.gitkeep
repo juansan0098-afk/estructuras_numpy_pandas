@@ -1,0 +1,80 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "9_kKH1LlFIxk"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "collapsed": true,
+        "id": "9KRu6or7-VpJ",
+        "outputId": "bef8b97d-da5f-4142-ac6f-9826916a6502"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Vector NumPy: [10 20 30 40 50]\n",
+            "Suma de elementos: 150\n",
+            "Media: 30.0\n",
+            "Máximo: 50\n",
+            "\n",
+            "Matriz NumPy:\n",
+            " [[1 2 3]\n",
+            " [4 5 6]\n",
+            " [7 8 9]]\n",
+            "Transpuesta:\n",
+            " [[1 4 7]\n",
+            " [2 5 8]\n",
+            " [3 6 9]]\n",
+            "Producto punto:\n",
+            " [[ 30  36  42]\n",
+            " [ 66  81  96]\n",
+            " [102 126 150]]\n"
+          ]
+        }
+      ],
+      "source": [
+        "import numpy as np\n",
+        "\n",
+        "vector = np.array([10, 20, 30, 40, 50])\n",
+        "print(\"Vector NumPy:\", vector)\n",
+        "print(\"Suma de elementos:\", np.sum(vector))\n",
+        "print(\"Media:\", np.mean(vector))\n",
+        "print(\"Máximo:\", np.max(vector))\n",
+        "\n",
+        "matriz = np.array([[1, 2, 3],\n",
+        "                   [4, 5, 6],\n",
+        "                   [7, 8, 9]])\n",
+        "print(\"\\nMatriz NumPy:\\n\", matriz)\n",
+        "print(\"Transpuesta:\\n\", matriz.T)\n",
+        "print(\"Producto punto:\\n\", np.dot(matriz, matriz))\n"
+      ]
+    }
+  ]
+}
