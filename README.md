@@ -16,9 +16,9 @@ Este repositorio contiene ejemplos prácticos de NumPy y Pandas para crear, mani
 - [03_operaciones_numpy.ipynb](https://colab.research.google.com/drive/1Lr4bGPj8KcjnuO177Ue2qGuEWt5O8qzO?usp=sharing)
 
 ### Pandas
-- [01_series_pandas.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/pandas/01_series_pandas.ipynb)
-- [02_dataframes_pandas.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/pandas/02_dataframes_pandas.ipynb)
-- [03_operaciones_pandas.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/pandas/03_operaciones_pandas.ipynb)
+- [01_series_pandas.ipynb](https://colab.research.google.com/drive/1ghuQsS9_ycpnMJeu8S7Fv-9W7D4DIJF2?usp=sharing)
+- [02_dataframes_pandas.ipynb](https://colab.research.google.com/drive/1fEPirlMbUPCPrHzkp9YGGiJijTXZmugT?usp=sharing)
+- [03_operaciones_pandas.ipynb](https://colab.research.google.com/drive/1lMLW3ErXAwu92FHOaT9WJATdGGpf2wG3?usp=sharing)
 
 ## Catálogo de casos
 - [catalogo_numpy.md](https://github.com/juansan0098-afk/estructuras_numpy_pandas/blob/main/catalogo_casos/catalogo_numpy.md)
