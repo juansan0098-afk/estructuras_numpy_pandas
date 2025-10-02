@@ -12,8 +12,8 @@ Este repositorio contiene ejemplos prácticos de NumPy y Pandas para crear, mani
 
 ### NumPy
 - [01_vectores_numpy.ipynb](https://colab.research.google.com/drive/1H5gOUpg4IdqlHYHmScd1Q_bPPvLpmTrL?usp=sharing)
-- [02_matrices_numpy.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/numpy/02_matrices_numpy.ipynb)
-- [03_operaciones_numpy.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/numpy/03_operaciones_numpy.ipynb)
+- [02_matrices_numpy.ipynb](https://colab.research.google.com/drive/1xH9seXPjzftSqcD5QIg9wLXe3JnL8TWe?usp=sharing)
+- [03_operaciones_numpy.ipynb](https://colab.research.google.com/drive/1Lr4bGPj8KcjnuO177Ue2qGuEWt5O8qzO?usp=sharing)
 
 ### Pandas
 - [01_series_pandas.ipynb](https://colab.research.google.com/github/juansan0098-afk/estructuras_numpy_pandas/blob/main/pandas/01_series_pandas.ipynb)
